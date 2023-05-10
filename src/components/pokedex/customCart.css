@@ -1,0 +1,11 @@
+img:hover {
+  image-rendering: pixelated;
+  transition-duration: 100ms;
+}
+
+.carta__padre  {
+  border: 2px solid rgb(0, 0, 0);
+border-color: red 
+
+
+}
